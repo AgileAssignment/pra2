@@ -1,0 +1,22 @@
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\bin\Debug\P2Ans.exe.config
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\bin\Debug\P2Ans.exe
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\bin\Debug\P2Ans.pdb
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\bin\Debug\P2Ans.xml
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\obj\Debug\P2Ans.Resources.resources
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\obj\Debug\P2Ans.vbproj.GenerateResource.Cache
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\obj\Debug\P2Ans.exe
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\obj\Debug\P2Ans.xml
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\obj\Debug\P2Ans.pdb
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\obj\Debug\P2Ans.Q1.resources
+f:\users\sweeming\my documents\visual studio 2013\Projects\P2Ans\P2Ans\obj\Debug\P2Ans.Q2.resources
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\bin\Debug\P2Ans.exe.config
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\obj\Debug\P2Ans.exe
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\obj\Debug\P2Ans.xml
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\obj\Debug\P2Ans.pdb
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\bin\Debug\P2Ans.exe
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\bin\Debug\P2Ans.pdb
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\bin\Debug\P2Ans.xml
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\obj\Debug\P2Ans.Q1.resources
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\obj\Debug\P2Ans.Resources.resources
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\obj\Debug\P2Ans.Q2.resources
+C:\BAIT1083_Visual Programming_Students\Practical _Students\P2\P2Ans\P2Ans\obj\Debug\P2Ans.vbproj.GenerateResource.Cache
