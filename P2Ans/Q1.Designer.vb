@@ -28,9 +28,6 @@ Partial Class Q1
         Me.radBlue = New System.Windows.Forms.RadioButton()
         Me.radGreen = New System.Windows.Forms.RadioButton()
         Me.radRed = New System.Windows.Forms.RadioButton()
-        Me.btnDisplay = New System.Windows.Forms.Button()
-        Me.btnClear = New System.Windows.Forms.Button()
-        Me.btnExit = New System.Windows.Forms.Button()
         Me.lblResult = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
@@ -136,15 +133,10 @@ Partial Class Q1
         '
         'Q1
         '
-        Me.AcceptButton = Me.btnDisplay
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.CancelButton = Me.btnExit
         Me.ClientSize = New System.Drawing.Size(284, 262)
         Me.Controls.Add(Me.lblResult)
-        Me.Controls.Add(Me.btnExit)
-        Me.Controls.Add(Me.btnClear)
-        Me.Controls.Add(Me.btnDisplay)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.txtName)
         Me.Controls.Add(Me.Label1)
@@ -162,9 +154,6 @@ Partial Class Q1
     Friend WithEvents radBlue As System.Windows.Forms.RadioButton
     Friend WithEvents radGreen As System.Windows.Forms.RadioButton
     Friend WithEvents radRed As System.Windows.Forms.RadioButton
-    Friend WithEvents btnDisplay As System.Windows.Forms.Button
-    Friend WithEvents btnClear As System.Windows.Forms.Button
-    Friend WithEvents btnExit As System.Windows.Forms.Button
     Friend WithEvents lblResult As System.Windows.Forms.Label
 
 End Class

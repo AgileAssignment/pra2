@@ -1,6 +1,6 @@
 ﻿Public Class Q1
 
-    Private Sub btnDisplay_Click(sender As Object, e As EventArgs) Handles btnDisplay.Click
+    Private Sub btnDisplay_Click(sender As Object, e As EventArgs)
 
         Dim fore As Color = Color.Black
 
@@ -21,13 +21,13 @@
     End Sub
 
 
-    Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
+    Private Sub btnClear_Click(sender As Object, e As EventArgs)
         txtName.Text = ""
         radRed.Checked = True
         txtName.Focus()
     End Sub
 
-    Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
+    Private Sub btnExit_Click(sender As Object, e As EventArgs)
         Me.Close()
     End Sub
 End Class
